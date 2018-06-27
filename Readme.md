@@ -8,8 +8,8 @@
 用户可以在口袋医生APP上进行网上预约挂号，从而减少排队等候的时间。用户可以通过在线问诊解决看病难的问题，从而免去用户的烦恼。用户可以在口袋医生APP的健康社区交流，沟通共享信息，帮助用户更加积极健康的生活。口袋医生APP定期更新健康小知识，避免一些健康误区。  
 ## 项目成员
 * 孙柏(项目经理UI设计，客户端代码开发)  
-  * Email: 
-  * Github : 
+  * Email:923345641@qq.com 
+  * Github :https://github.com/sunbaishixiannv 
 * 史宸枭(UI设计，客户端代码开发，测试)  
   * Email:1739118128@qq.com 
   * Github :https://github.com/shichenxiao
