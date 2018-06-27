@@ -1,6 +1,6 @@
 # 口袋医生  
 * [github](https://github.com/shichenxiao/pocket-doctor) 
-* [HostRedmine](https://github.com/shichenxiao/pocket-doctor)   
+* [HostRedmine](http://www.hostedredmine.com/projects/h5556565565555)   
 ## 项目简介  
   
 **口袋医生**是一款移动医疗APP。旨在搭建起医疗机构和患者之间的桥梁，打造医疗机构和患者之间的信息交互平台，为患者提供更好的医疗体验，同时提供临床医疗的高效性、减少医疗运营成本。  
